@@ -34,6 +34,16 @@ simple time series & plotting
 unique ids
 
 
-## 
+# Examples
+
+## 311 Data
+
+## Crime Data
+
+## Weather Data
+
+## Vacant Property Data
+
+
 
 
