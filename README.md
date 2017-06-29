@@ -10,14 +10,30 @@ We cannot guarantee that this will work or provide you with computation resource
 
 # todo 
 
+
+# Class Topics
+
 Course home page -- descriipt, contact info, officer hours, weekly assignments. 
 
 Week 1: brief intro to course & review of computational environment.  
 
+Week 2: Intro to the data science & public policy.  very general readings. 
+
+Week 3: 
+
+Week 4: 
+
+## DATA: how to find it, how to extract and load it. 
+specific list of data sources, how to get it. 
+but we have data in repo as a contingency. 
+
+simple data exploration
+group by, pivot
+describe, value counts, etc. 
+simple time series & plotting
+unique ids
 
 
-
-
-
+## 
 
 
