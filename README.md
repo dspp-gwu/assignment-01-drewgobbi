@@ -1,6 +1,9 @@
 # dspp-f17
 Data Science &amp; Public Policy - Fall 2017
 
+Do we follow one project (or two) throughout the course? 
+
+
 # #1st Assignment: Before first class
 if you can, install docker and do this. 
 If you have windows >10, we suggest this: 
@@ -43,6 +46,8 @@ unique ids
 ## Weather Data
 
 ## Vacant Property Data
+
+## 911 Aggregate Data 
 
 
 
