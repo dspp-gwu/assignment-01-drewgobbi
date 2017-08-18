@@ -1,9 +1,9 @@
 # Fall 2017
 # Data Science and Public Policy
 # PPPA 6085
-# dbraman@law.gwu.edu
-# pccasey@gmail.com 
+Dr. Donald Braman: dbraman@law.gwu.edu 
 
+SDS Peter Casey: pccasey@gmail.com  
 
 I. Nature of the Seminar
 This course is intended to give the student an appreciation of the contributions and limitations of public and non-profit program evaluation, as well as a familiarity with the basic skills needed to conduct evaluations.  Emphasis will be given to coping with the conceptual, methodological, organizational, political, and ethical problems which face evaluators.  The various tasks facing evaluators will be discussed, from developing the questions to presenting the data.  The specific issues addressed in class sessions are noted on the attached class schedule.
