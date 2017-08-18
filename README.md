@@ -1,6 +1,6 @@
-# Fall 2017
-# Data Science and Public Policy
-# PPPA 6085
+### Fall 2017
+## Data Science and Public Policy
+### PPPA 6085
 Dr. Donald Braman: dbraman@law.gwu.edu 
 
 SDS Peter Casey: pccasey@gmail.com  
@@ -15,7 +15,7 @@ II. Logistics and Requirements
 
 3. Problem Sets.  Students will also be assigned problem sets each week.  Sometimes the problems will be general (create three graphs revealing interesting information about data set you are using, e.g.), other times they will be specific (calculate the average number of 911 calls per day during 2016, e.g.). 
 
-4. Final Report. Your final assignment—one you should be thinking about for the entire semester—will be to use the skills you use to analyze data, write a report, and present your findings to members of the Lab @ DC.   
+4. Final Report. Your final assignment—one you should be thinking about for the entire semester—will be to use the skills you use to analyze data, write a report, and present your findings to members of the [Lab @ DC](http://thelab.dc.gov/).   
 
 3.  Grades. Grades will be based on the papers and on contributions to in-class discussion (but not discussion on the course site). 
 III. Provisional Schedule
